@@ -1,2 +1,3 @@
 Nom: N'DRI 
 Prénoms:Kouamé Romaric
+Age: 25 ans
